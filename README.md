@@ -1,3 +1,3 @@
 ## Workflow
 
-![Workflow](Agent_workflow_.png)
+![Workflow](Agent_Workflow_.png)
